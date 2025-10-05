@@ -51,8 +51,12 @@ Total de pruebas FALLIDAS/Incompletas: 0
 
 
 ----------------------------------------------------
+
 PROMEDIO FINAL SENDER (Subida/Upload): 751.24 Mbps
+
 PROMEDIO FINAL RECEIVER (Bajada/Download): 743.74 Mbps
+
 ----------------------------------------------------
+
 
 Script finalizado. Archivo temporal limpiado.
